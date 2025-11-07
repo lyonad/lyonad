@@ -82,9 +82,6 @@ lyon.say_hi()
     <td width="50%">
       <h3 align="center">🏥 Healtha - Health Monitoring System</h3>
       <div align="center">
-        <a href="https://github.com/lyonad/LansiaMonitoring">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyonad&repo=LansiaMonitoring&theme=tokyonight" alt="Healtha" />
-        </a>
         <p><strong>Node.js • Express.js • MySQL • MVC Pattern</strong></p>
         <p>Full-stack elderly health monitoring application with responsive UI. Engineered scalable back-end service and interactive front-end dashboard.</p>
       </div>
@@ -94,9 +91,6 @@ lyon.say_hi()
     <td width="50%">
       <h3 align="center">🧠 Emotion Recognition System</h3>
       <div align="center">
-        <a href="https://github.com/lyonad/EmotionRecognition-v2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyonad&repo=EmotionRecognition-v2&theme=tokyonight" alt="Emotion Recognition" />
-        </a>
         <p><strong>Python • Machine Learning • KNN • Pelican Optimization</strong></p>
         <p>Real-time emotion recognition using optimized KNN algorithm with Pelican Optimization for enhanced accuracy.</p>
       </div>
@@ -104,9 +98,6 @@ lyon.say_hi()
     <td width="50%">
       <h3 align="center">🫁 Lung Cancer Prediction</h3>
       <div align="center">
-        <a href="https://github.com/lyonad/Lung-ML-DL">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyonad&repo=Lung-ML-DL&theme=tokyonight" alt="Lung ML DL" />
-        </a>
         <p><strong>Python • Deep Learning • Random Forest • Flask</strong></p>
         <p>Lung cancer risk prediction achieving 91.94% accuracy with comparative analysis of ML vs DL approaches.</p>
       </div>
@@ -116,9 +107,6 @@ lyon.say_hi()
     <td width="50%">
       <h3 align="center">📊 Phetrima - Time Series Forecasting</h3>
       <div align="center">
-        <a href="https://github.com/lyonad/Phetrima">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyonad&repo=Phetrima&theme=tokyonight" alt="Phetrima" />
-        </a>
         <p><strong>Python • Prophet • ARIMA • World Bank Data</strong></p>
         <p>Comparative analysis of Prophet vs ARIMA models across 117 countries using 25 years of World Bank data.</p>
       </div>
@@ -283,11 +271,6 @@ lyon.say_hi()
 ---
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lyonad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Lyon's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lyonad&theme=tokyonight&hide_border=true" alt="Lyon's GitHub Streak" />
-</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonad&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
