@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/xTpY19RCNewAAAAM/anime-frieren.gif" alt="Frieren Anime" width="600" />
+  <img src="https://media1.tenor.com/m/xTpY19RCNewAAAAC/anime-frieren.gif" alt="Frieren Anime" width="600" />
 </h1>
 
 <h2 align="center">Hi there! 👋 I'm Lyon</h2>
