@@ -82,6 +82,9 @@ lyon.say_hi()
     <td width="50%">
       <h3 align="center">🏥 Healtha - Health Monitoring System</h3>
       <div align="center">
+        <a href="https://github.com/lyonad/LansiaMonitoring">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyonad&repo=LansiaMonitoring&theme=tokyonight" alt="Healtha" />
+        </a>
         <p><strong>Node.js • Express.js • MySQL • MVC Pattern</strong></p>
         <p>Full-stack elderly health monitoring application with responsive UI. Engineered scalable back-end service and interactive front-end dashboard.</p>
       </div>
