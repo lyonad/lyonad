@@ -354,9 +354,6 @@ I'm always excited to collaborate on interesting projects, discuss ideas about A
   <a href="https://lyon.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="tel:+6282125321627">
-    <img src="https://img.shields.io/badge/Phone-+62_821_2532_1627-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
 </p>
 
 <p align="center">
