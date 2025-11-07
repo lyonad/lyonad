@@ -74,7 +74,7 @@ lyon.say_hi()
     <td width="50%">
       <h3 align="center">🌌 Exoplantropy - NASA Space Apps 2025</h3>
       <div align="center">
-        <p><strong>Python • XGBoost • LightGBM • Gemini API • Time-Series Analysis</strong></p>
+        <p><strong>Python • XGBoost • LightGBM • Gemini API</strong></p>
         <p>🏆 <em>Global Nominee & Jakarta's Best Mission Concept 2025</em></p>
         <p>Developed ML models for high-accuracy exoplanet identification using NASA's Kepler, K2, and TESS mission data. Integrated Gemini API with function calling for an AI research assistant.</p>
       </div>
