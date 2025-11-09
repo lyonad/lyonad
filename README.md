@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./anime-frieren.gif" alt="Frieren Anime" width="480" />
+	<img src="./anime-frieren.gif" alt="Frieren Anime" width="360" />
 </p>
 
 ## Lyon Ambrosio Djuanda
