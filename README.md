@@ -72,5 +72,5 @@ Portfolio: https://lyon.vercel.app
 LinkedIn: https://www.linkedin.com/in/lyon-ambrosio-djuanda/
 
 ---
-"Bla Bla Bla Bla Bla."  
+"Bla Bla Bla Bla Bla. Oh, hello guys!"  
 ⭐️ `@lyonad`
