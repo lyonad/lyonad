@@ -16,19 +16,16 @@
 ---
 ### Projects
 
-- **Customer-Review-Patterns-and-Buying-Decisions** – XGBoost, LightGBM, CatBoost comparison with Grey Wolf Optimization for customer review classification. (Jupyter Notebook, MIT)
-- **BMW-Classification** – XGBoost, LightGBM, CatBoost comparison for BMW vehicle classification. (Python)
-- **RF-vs-GB-for-UKT-PTN-Prediction** – Random Forest vs Gradient Boosted Trees for predicting university tuition fees. (HTML)
-- **Lung-ML-DL** – Lung cancer prediction with 91.94% accuracy using ML vs DL. (Python, Deep Learning, Random Forest, Flask)
-- **Phetrima** – Prophet vs ARIMA forecasting across 117 countries. (Python, Prophet, ARIMA, World Bank Data)
-- **Portfolio-v2** – Personal portfolio v2. (Private, TypeScript, MIT)
-- **Portfolio** – Personal portfolio. (Private)
-- **Proyek-Akhir-Metode-Numerik** – Lagrange Interpolation implementation with Streamlit web app. (Python)
-- **LansiaMonitoring** – Elderly health monitoring web app. (JavaScript)
-- **EmotionRecognition-v2** – Improved emotion recognition system. (Python)
-- **EmotionRecognition-v1** – Real-time emotion recognition with KNN and Pelican Optimization. (Python, Machine Learning, KNN, Pelican Optimization)
-- **Exoplantropy** – ML models for exoplanet identification using NASA data with Gemini API. 🏆 Global Nominee 2025 (Python, XGBoost, LightGBM, Gemini API)
-- **I-SECRET Official Website** – UI/UX design for I-SECRET organization website. (Figma, UI/UX Design, Web Development)
+- **Customer Review Analysis** – XGBoost, LightGBM, CatBoost comparison with Grey Wolf Optimization for customer review classification. (Jupyter Notebook, MIT)
+- **BMW Classification Model** – XGBoost, LightGBM, CatBoost comparison for BMW vehicle classification. (Python)
+- **Tuition Fee Prediction: RF vs GB** – Random Forest vs Gradient Boosted Trees for predicting university tuition fees. (HTML)
+- **Lung Cancer Risk Prediction** – Lung cancer prediction with 91.94% accuracy using ML vs DL. (Python, Deep Learning, Random Forest, Flask)
+- **Global Time Series Forecasting** – Prophet vs ARIMA forecasting across 117 countries. (Python, Prophet, ARIMA, World Bank Data)
+- **Elderly Health Monitoring System** – Elderly health monitoring web app. (JavaScript)
+- **Advanced Emotion Recognition** – Improved emotion recognition system. (Python)
+- **Real-Time Emotion Recognition** – Real-time emotion recognition with KNN and Pelican Optimization. (Python, Machine Learning, KNN, Pelican Optimization)
+- **Exoplanet Detection with AI** – ML models for exoplanet identification using NASA data with Gemini API. 🏆 Global Nominee 2025 (Python, XGBoost, LightGBM, Gemini API)
+- **I-SECRET Website Design** – UI/UX design for I-SECRET organization website. (Figma, UI/UX Design, Web Development)
 
 ---
 ### Core Skills
