@@ -11,7 +11,6 @@
 - 🎓 Education: Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
 - 🧠 Focus: Machine Learning, Time Series, Computer Vision, Applied AI for Healthcare
 - 🏆 Highlights: NASA Space Apps Global Nominee 2025
-- ✉️ Contact: lyon.ambrosio.djuanda@gmail.com
 
 ---
 ### Projects
