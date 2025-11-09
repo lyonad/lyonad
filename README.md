@@ -72,5 +72,5 @@ Portfolio: https://lyon.vercel.app
 LinkedIn: https://www.linkedin.com/in/lyon-ambrosio-djuanda/
 
 ---
-"Keep learning. Ship useful things. Iterate."  
+"Bla Bla Bla."  
 ⭐️ `@lyonad`
