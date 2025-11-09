@@ -37,8 +37,20 @@ Languages: Indonesian (Native), English (Professional), Chinese (Elementary)
 ---
 ### Achievements & Certifications
 - NASA Space Apps Challenge 2025 – Global Nominee & Jakarta Best Mission Concept
-- Dicoding – Belajar Dasar AI (2025)
 - Cisco – CCNA: Introduction to Networks (2025)
+- Cisco – Introduction to Cybersecurity (2025)
+- IBM – Information Technology Fundamentals (2025)
+- MongoDB – Building AI-Powered Search with MongoDB Vector Search (2025)
+- MongoDB – Building RAG Apps Using MongoDB (2025)
+- MongoDB – From Relational Model (SQL) to MongoDB's Document Model (2025)
+- MongoDB – CRUD Operations in MongoDB (2025)
+- MongoDB – MongoDB Basics for Students (2025)
+- Wilco – Enhanced Development with GitHub Copilot Integration (2025)
+- Wilco – GitHub Copilot: Code Smarter (2025)
+- Wilco – Transform Your Code: GitHub Copilot Magic (2025)
+- Wilco – GitHub Copilot Prompt (2025)
+- Wilco – GitHub Fundamentals (2025)
+- Dicoding – Belajar Dasar AI (2025)
 - Dicoding – Belajar Dasar-Dasar DevOps (2023)
 
 ---
