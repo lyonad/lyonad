@@ -7,20 +7,26 @@
 **Computer Science Student (UNNES, GPA 3.86)** · **AI / ML Enthusiast** · **NASA Space Apps 2025 Global Nominee (Jakarta Best Mission Concept)**
 
 ### Quick Snapshot
-- 🇮🇩 Based in West Jakarta, Indonesia
-- 🎓 Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
+- 🇮🇩 Location: Based in West Jakarta, Indonesia
+- 🎓 Education: Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
 - 🧠 Focus: Machine Learning, Time Series, Computer Vision, Applied AI for Healthcare
-- � Highlights: NASA Space Apps Global Nominee 2025
-- ✉️ Email: lyon.ambrosio.djuanda@gmail.com · 🔗 Portfolio: https://lyon.vercel.app · 💼 LinkedIn: /in/lyon-ambrosio-djuanda
+- 🏆 Highlights: NASA Space Apps Global Nominee 2025
+- ✉️ Contact: Email: lyon.ambrosio.djuanda@gmail.com · Portfolio: https://lyon.vercel.app · LinkedIn: /in/lyon-ambrosio-djuanda
 
 ---
-### Projects (Selected)
-- **Exoplantropy** – ML models (XGBoost / LightGBM) for exoplanet detection using Kepler, K2, TESS data; integrated Gemini API assistant. (NASA Space Apps 2025)
-- **Healtha** – Elderly health monitoring web app (Node.js, Express, MySQL, MVC).
-- **Emotion Recognition** – Real-time emotion classification (KNN + optimization).
-- **Lung Cancer Prediction** – ML vs DL comparative risk modeling (91.94% accuracy).
-- **Phetrima** – Prophet vs ARIMA forecasting across data from 117 countries.
-- **I-SECRET Website** – Led initial UI/UX concept and design implementation.
+### Projects (All)
+
+- **Customer-Review-Patterns-and-Buying-Decisions** – XGBoost, LightGBM, CatBoost comparison with Grey Wolf Optimization for customer review classification. (Jupyter Notebook, MIT)
+- **BMW-Classification** – XGBoost, LightGBM, CatBoost comparison for BMW vehicle classification. (Python)
+- **RF-vs-GB-for-UKT-PTN-Prediction** – Random Forest vs Gradient Boosted Trees for predicting university tuition fees. (HTML)
+- **Lung-ML-DL** – DL vs RF for lung cancer prediction (91.94% accuracy) with Flask app. (Python, MIT)
+- **Phetrima** – Prophet vs ARIMA forecasting across 117 countries. (HTML)
+- **Portfolio-v2** – Personal portfolio v2. (Private, TypeScript, MIT)
+- **Portfolio** – Personal portfolio. (Private)
+- **Proyek-Akhir-Metode-Numerik** – Lagrange Interpolation implementation with Streamlit web app. (Python)
+- **LansiaMonitoring** – Elderly health monitoring web app. (JavaScript)
+- **EmotionRecognition-v2** – Improved emotion recognition system. (Python)
+- **EmotionRecognition-v1** – Real-time emotion recognition with KNN and Pelican Optimization. (Python)
 
 ---
 ### Core Skills
