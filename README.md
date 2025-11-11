@@ -68,9 +68,10 @@ Here are some of the projects I'm most proud of:
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Lyon Ambrosio Djuanda](https://www.linkedin.com/in/lyonad)
-- **GitHub:** [lyonad](https://github.com/lyonad)
-- **Email:** lyonad@example.com
+- **Portfolio:** [lyon.vercel.app](https://lyon.vercel.app/)
+- **LinkedIn:** [Lyon Ambrosio Djuanda](https://www.linkedin.com/in/lyon-ambrosio-djuanda/)
+- **Instagram:** [lyon_a.d](https://www.instagram.com/lyon_a.d)
+- **YouTube:** [lyon_a.d](https://www.youtube.com/@lyon_a.d)
 
 ---
 
