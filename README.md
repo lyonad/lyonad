@@ -4,7 +4,7 @@
 
 ## Lyon Ambrosio Djuanda
 
-**Computer Science Student (UNNES, GPA 3.86)** · **AI / ML Enthusiast** · **NASA Space Apps 2025 Global Nominee (Jakarta Best Mission Concept)**
+**Computer Science Student (UNNES, GPA 3.86)** · **Data Enthusiast** · **NASA Space Apps 2025 Global Nominee (Jakarta Best Mission Concept)**
 
 ### Quick Snapshot
 - 🇮🇩 Location: Based in West Jakarta, Indonesia
