@@ -76,3 +76,11 @@ Here are some of the projects I'm most proud of:
 <p align="center">
 	"Striving to turn data into actionable insights and innovation."
 </p>
+
+<p align="center">
+	"The most important thing I've learned is no matter how unlucky you are, opportunity always comes again. Opportunity will come to those who don't give up, those who are willing to try again. I believe there is no such a thing as a coincidence, even if it is indeed a coincidence, time will prove how that coincidence is a real coincidence or not."
+</p>
+
+<p align="center">
+	– מישהו שעדיין מנסה
+</p>
