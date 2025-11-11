@@ -5,7 +5,7 @@
 <h1 align="center">Lyon Ambrosio Djuanda</h1>
 
 <p align="center">
-	<b>Computer Science Student (UNNES)</b> · <b>Data Enthusiast</b> · <b>NASA Space Apps 2025 Global Nominee</b>
+	<b>Computer Science Student (UNNES)</b> · <b>Deep Learning Enthusiast</b> · <b>NASA Space Apps 2025 Global Nominee</b>
 </p>
 
 ---
