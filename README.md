@@ -36,9 +36,10 @@ Languages: Indonesian (Native), English (Professional), Chinese (Elementary)
 ---
 ### Achievements & Certifications
 - NASA Space Apps Challenge 2025 – Global Nominee & Jakarta Best Mission Concept
+- IBM - Artificial Intelligence Fundamentals (2025)
+- IBM – Information Technology Fundamentals (2025)
 - Cisco – CCNA: Introduction to Networks (2025)
 - Cisco – Introduction to Cybersecurity (2025)
-- IBM – Information Technology Fundamentals (2025)
 - MongoDB – Building AI-Powered Search with MongoDB Vector Search (2025)
 - MongoDB – Building RAG Apps Using MongoDB (2025)
 - MongoDB – From Relational Model (SQL) to MongoDB's Document Model (2025)
