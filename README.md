@@ -89,12 +89,12 @@ Here are some of the projects I'm most proud of:
 ### 👥 ORGANIZATION
 
 - **I-SECRET ILKOM UNNES** – Media Staff *(Feb 2024 – Jan 2025)*  
-  • Managed visual content and promotional activities for the organization's main events, contributing to increased community engagement.  
-  • Contributed to the Events Division team, assisting in the design and smooth execution of the main I-SECRET ILKOM UNNES workshops and events.
+  - Managed visual content and promotional activities for the organization's main events, contributing to increased community engagement.  
+  - Contributed to the Events Division team, assisting in the design and smooth execution of the main I-SECRET ILKOM UNNES workshops and events.
 
 - **SMA Santo Kristoforus II Student Council** – Academic Staff *(Jan 2021 – Dec 2021)*  
-  • Led the World Food Day and Language Month School Event's lifecycle, ensuring seamless planning and execution through effective cross-team communication.  
-  • Planned, coordinated, and implemented educational programs aimed at boosting student academic achievement.
+  - Led the World Food Day and Language Month School Event's lifecycle, ensuring seamless planning and execution through effective cross-team communication.  
+  - Planned, coordinated, and implemented educational programs aimed at boosting student academic achievement.
 
 ---
 
