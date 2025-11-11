@@ -2,76 +2,78 @@
 	<img src="./anime-frieren.gif" alt="Frieren Anime" width="480" />
 </p>
 
-## Lyon Ambrosio Djuanda
+<h1 align="center">Lyon Ambrosio Djuanda</h1>
 
-**Computer Science Student (UNNES, GPA 3.86)** · **Data Enthusiast** · **NASA Space Apps 2025 Global Nominee (Jakarta Best Mission Concept)**
-
-### Quick Snapshot
-- 🇮🇩 Location: Based in West Jakarta, Indonesia
-- 🎓 Education: Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
-- 🧠 Focus: Machine Learning, Time Series, Computer Vision, Applied AI for Healthcare
-- 🏆 Highlights: NASA Space Apps Global Nominee 2025
+<p align="center">
+	<b>Computer Science Student (UNNES, GPA 3.86)</b> · <b>Data Enthusiast</b> · <b>NASA Space Apps 2025 Global Nominee</b>
+</p>
 
 ---
-### Projects
 
-- **Customer Review Analysis** – XGBoost, LightGBM, CatBoost comparison with Grey Wolf Optimization for customer review classification. (Jupyter Notebook, MIT)
-- **BMW Classification Model** – XGBoost, LightGBM, CatBoost comparison for BMW vehicle classification. (Python)
-- **Tuition Fee Prediction: RF vs GB** – Random Forest vs Gradient Boosted Trees for predicting university tuition fees. (HTML)
-- **Lung Cancer Risk Prediction** – Lung cancer prediction with 91.94% accuracy using ML vs DL. (Python, Deep Learning, Random Forest, Flask)
-- **Global Time Series Forecasting** – Prophet vs ARIMA forecasting across 117 countries. (Python, Prophet, ARIMA, World Bank Data)
-- **Elderly Health Monitoring System** – Elderly health monitoring web app. (JavaScript)
-- **Advanced Emotion Recognition** – Improved emotion recognition system. (Python)
-- **Real-Time Emotion Recognition** – Real-time emotion recognition with KNN and Pelican Optimization. (Python, Machine Learning, KNN, Pelican Optimization)
-- **Exoplanet Detection with AI** – ML models for exoplanet identification using NASA data with Gemini API. 🏆 Global Nominee 2025 (Python, XGBoost, LightGBM, Gemini API)
-- **I-SECRET Website Design** – UI/UX design for I-SECRET organization website. (Figma, UI/UX Design, Web Development)
+### 🌟 About Me
+Hello! I'm Lyon, a passionate Computer Science student with a strong inclination towards Machine Learning, Data Science, and AI applications. I thrive on solving complex problems and creating impactful solutions, especially in the fields of healthcare and space exploration. 
+
+- 🌍 **Location:** West Jakarta, Indonesia
+- 🎓 **Education:** Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
+- 🧠 **Focus Areas:** Machine Learning, Time Series, Computer Vision, Applied AI for Healthcare
+- 🏆 **Highlights:** NASA Space Apps Global Nominee 2025
 
 ---
-### Core Skills
-Python, JavaScript/TypeScript, Node.js, Express, React, Next.js, MySQL, Flask, FastAPI
-ML / DS: scikit-learn, XGBoost, TensorFlow, Pandas, NumPy, OpenCV
-Tools: Git, Jupyter, Figma, MATLAB, SPSS
-Languages: Indonesian (Native), English (Professional), Chinese (Elementary)
+
+### 🚀 Featured Projects
+
+Here are some of the projects I'm most proud of:
+
+- **[Customer Review Analysis](#)** – Leveraged XGBoost, LightGBM, and CatBoost with Grey Wolf Optimization for customer review classification. *(Jupyter Notebook, MIT)*
+- **[BMW Classification Model](#)** – Comparative analysis of XGBoost, LightGBM, and CatBoost for BMW vehicle classification. *(Python)*
+- **[Lung Cancer Risk Prediction](#)** – Achieved 91.94% accuracy in lung cancer prediction using ML and DL techniques. *(Python, Flask)*
+- **[Exoplanet Detection with AI](#)** – Developed ML models for exoplanet identification using NASA data and Gemini API. *(🏆 NASA Space Apps 2025)*
+- **[Global Time Series Forecasting](#)** – Forecasted trends across 117 countries using Prophet and ARIMA. *(Python, World Bank Data)*
+
+*Explore more projects in the [Projects Section](#projects).*  
 
 ---
-### Achievements & Certifications
-- NASA Space Apps Challenge 2025 – Global Nominee & Jakarta Best Mission Concept
-- IBM - Artificial Intelligence Fundamentals (2025)
-- IBM – Information Technology Fundamentals (2025)
-- Cisco – CCNA: Introduction to Networks (2025)
-- Cisco – Introduction to Cybersecurity (2025)
-- MongoDB – Building AI-Powered Search with MongoDB Vector Search (2025)
-- MongoDB – Building RAG Apps Using MongoDB (2025)
-- MongoDB – From Relational Model (SQL) to MongoDB's Document Model (2025)
-- MongoDB – CRUD Operations in MongoDB (2025)
-- MongoDB – MongoDB Basics for Students (2025)
-- Wilco – Enhanced Development with GitHub Copilot Integration (2025)
-- Wilco – GitHub Copilot: Code Smarter (2025)
-- Wilco – Transform Your Code: GitHub Copilot Magic (2025)
-- Wilco – GitHub Copilot Prompt (2025)
-- Wilco – GitHub Fundamentals (2025)
-- Dicoding – Belajar Dasar AI (2025)
-- Dicoding – Belajar Dasar-Dasar DevOps (2023)
+
+### 🛠️ Core Skills
+
+#### Programming & Frameworks:
+- **Languages:** Python, JavaScript/TypeScript
+- **Frameworks:** Node.js, Express, React, Next.js, Flask, FastAPI
+
+#### Machine Learning & Data Science:
+- **Libraries:** scikit-learn, XGBoost, TensorFlow, Pandas, NumPy, OpenCV
+- **Tools:** Jupyter, MATLAB, SPSS
+
+#### Databases & Tools:
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git
+- **Design Tools:** Figma
+
+#### Languages:
+- **Indonesian:** Native
+- **English:** Professional
+- **Chinese:** Elementary
 
 ---
-### Education
-- **Universitas Negeri Semarang** – B.Sc. Informatics Engineering (2023–2027) | GPA 3.86
-- **SMA Santo Kristoforus II** – Mathematics & Science (2020–2023)
+
+### 🏅 Achievements & Certifications
+
+- **NASA Space Apps Challenge 2025** – Global Nominee & Jakarta Best Mission Concept
+- **IBM:** Artificial Intelligence Fundamentals, Information Technology Fundamentals *(2025)*
+- **Cisco:** CCNA: Introduction to Networks, Introduction to Cybersecurity *(2025)*
+- **MongoDB:** Vector Search, RAG Apps, Document Model, CRUD Operations, Basics *(2025)*
+- **Wilco:** GitHub Copilot Integration, Code Smarter, Transform Your Code *(2025)*
 
 ---
-### 2025 Goals
-- Contribute to open-source ML projects
-- Publish work on optimization & forecasting
-- Complete advanced AI certifications
-- Build production-ready AI apps
-- Collaborate on impactful data/health projects
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [Lyon Ambrosio Djuanda](https://www.linkedin.com/in/lyonad)
+- **GitHub:** [lyonad](https://github.com/lyonad)
+- **Email:** lyonad@example.com
 
 ---
-### Contact
-Email: lyon.ambrosio.djuanda@gmail.com  
-Portfolio: https://lyon.vercel.app  
-LinkedIn: https://www.linkedin.com/in/lyon-ambrosio-djuanda/
 
----
-"Bla Bla Bla Bla Bla!!!"  
-⭐️ `@lyonad`
+<p align="center">
+	"Striving to turn data into actionable insights and innovation."
+</p>
