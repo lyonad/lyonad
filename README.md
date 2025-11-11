@@ -30,8 +30,6 @@ Here are some of the projects I'm most proud of:
 - **[Exoplanet Detection with AI](#)** – Developed ML models for exoplanet identification using NASA data and Gemini API. *(🏆 NASA Space Apps 2025)*
 - **[Global Time Series Forecasting](#)** – Forecasted trends across 117 countries using Prophet and ARIMA. *(Python, World Bank Data)*
 
-*Explore more projects in the [Projects Section](#projects).*  
-
 ---
 
 ### 🛠️ Core Skills
