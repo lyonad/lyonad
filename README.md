@@ -112,5 +112,5 @@ Here are some of the projects I'm most proud of:
 </p>
 
 <p align="right">
-	– מישהו שעדיין מנסה
+	- מישהו שעדיין מנסה
 </p>
