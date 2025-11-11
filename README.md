@@ -24,7 +24,7 @@ Hello! I'm Lyon, a passionate Computer Science student with a strong inclination
 
 Here are some of the projects I'm most proud of:
 
-- **[Customer Review Analysis](#)** – Leveraged XGBoost, LightGBM, and CatBoost with Grey Wolf Optimization for customer review classification. *(Jupyter Notebook, MIT)*
+- **[Customer Review Analysis](#)** – Leveraged XGBoost, LightGBM, and CatBoost with Grey Wolf Optimization for customer review classification. *(Jupyter Notebook)*
 - **[BMW Classification Model](#)** – Comparative analysis of XGBoost, LightGBM, and CatBoost for BMW vehicle classification. *(Python)*
 - **[Lung Cancer Risk Prediction](#)** – Achieved 91.94% accuracy in lung cancer prediction using ML and DL techniques. *(Python, Flask)*
 - **[Exoplanet Detection with AI](#)** – Developed ML models for exoplanet identification using NASA data and Gemini API. *(🏆 NASA Space Apps 2025)*
@@ -34,23 +34,28 @@ Here are some of the projects I'm most proud of:
 
 ### 🛠️ Core Skills
 
-#### Programming & Frameworks:
-- **Languages:** Python, JavaScript/TypeScript
-- **Frameworks:** Node.js, Express, React, Next.js, Flask, FastAPI
+#### Programming Languages:
+- Python
+- Java
+- C++
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SQL
+- PHP
 
-#### Machine Learning & Data Science:
-- **Libraries:** scikit-learn, XGBoost, TensorFlow, Pandas, NumPy, OpenCV
-- **Tools:** Jupyter, MATLAB, SPSS
+#### Technologies & Frameworks:
+- Node.js, Express.js, Flask
+- RESTful API, GraphQL
+- Next.js, React, Laravel
+- TensorFlow, PyTorch, Scikit-learn
+- Pandas, NumPy
+- MySQL, Git
 
-#### Databases & Tools:
-- **Databases:** MySQL, MongoDB
-- **Version Control:** Git
-- **Design Tools:** Figma
-
-#### Languages:
-- **Indonesian:** Native
-- **English:** Professional
-- **Chinese:** Elementary
+#### Tools & Software:
+- Figma, Unity, Jupyter, Google Colab
+- Ms. Excel, Ms. Word, IBM SPSS, MATLAB
 
 ---
 
