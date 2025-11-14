@@ -37,9 +37,38 @@ Here are some of the projects I'm most proud of:
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:** Python, Java, C++, JavaScript, TypeScript, HTML, CSS, SQL, PHP.
-- **Technologies & Frameworks:** Node.js, Flask, Next.js, React, Laravel, Tensorflow, RESTful API, GraphQL, MySQL, Git.
-- **Tools & Software:** Figma, Unity, Jupyter, Google Colab, IBM SPSS, MATLAB, MS Word, MS Excel.
+#### Programming Languages:
+- Python
+- Java
+- C++
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SQL
+- PHP
+
+#### Technologies & Frameworks:
+- Node.js
+- Flask
+- Next.js
+- React
+- Laravel
+- Tensorflow
+- RESTful API
+- GraphQL
+- MySQL
+- Git
+
+#### Tools & Software:
+- Figma
+- Unity
+- Jupyter
+- Google Colab
+- IBM SPSS
+- MATLAB
+- MS Word
+- MS Excel
 
 ---
 
