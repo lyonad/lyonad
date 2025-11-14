@@ -26,7 +26,7 @@ Here are some of the projects I'm most proud of:
 
 - **UKT Prediction** – Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting algorithms. *(Python, Flask, CatBoost)*
 - **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. *(🏆 NASA Space Apps 2025)*
-- **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction with 91.94% accuracy. *(Python, TensorFlow, Scikit-learn, Flask)*
+- **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction. *(Python, TensorFlow, Scikit-learn, Flask)*
 - **Phetrima** – Prophet and ARIMA Forecasting Models Comparison web app analyzing World Bank GDP data. *(Python, Flask, JavaScript, Chart.js)*
 - **Customer Review Analysis** – XGBoost, LightGBM, and CatBoost comparison with Grey Wolf Optimization for customer review classification. *(Jupyter Notebook)*
 - **BMW Classification Model** – Comparative analysis of XGBoost, LightGBM, and CatBoost for BMW vehicle classification. *(Python)*
