@@ -28,9 +28,6 @@ Here are some of the projects I'm most proud of:
 - **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. *(🏆 NASA International Space Apps Challenge 2025)*
 - **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction. *(Python, TensorFlow, Scikit-learn, Flask)*
 - **Phetrima** – Prophet and ARIMA Forecasting Models Comparison web app analyzing World Bank GDP data. *(Python, Flask, JavaScript, Chart.js)*
-- **Customer Review Analysis** – XGBoost, LightGBM, and CatBoost comparison with Grey Wolf Optimization for customer review classification. *(Jupyter Notebook)*
-- **BMW Classification Model** – Comparative analysis of XGBoost, LightGBM, and CatBoost for BMW vehicle classification. *(Python)*
-- **Global Time Series Forecasting** – Forecasted trends across 117 countries using Prophet and ARIMA. *(Python, Prophet, ARIMA, World Bank Data)*
 - **I-SECRET** – Official Website Development with UI/UX design for intuitive user experience. *(Figma, Web Development)*
 
 ---
