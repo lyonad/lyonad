@@ -78,7 +78,7 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-### 📚 EDUCATION
+### 📚 Education
 
 - **Universitas Negeri Semarang, Semarang** – Bachelor of Informatics Engineering *(Aug 2023 – Jul 2027 Expected)*
 
@@ -86,7 +86,7 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-### 👥 ORGANIZATION
+### 👥 Organization
 
 - **I-SECRET ILKOM UNNES** – Media Staff *(Feb 2024 – Jan 2025)*  
   - Managed visual content and promotional activities for the organization's main events, contributing to increased community engagement.  
