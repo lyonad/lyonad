@@ -71,11 +71,19 @@ Here are some of the projects I'm most proud of:
 
 ### 🏅 Achievements & Certifications
 
-- **NASA International Space Apps Challenge 2025** – Global Nominee & Jakarta Best Mission Concept
-- **IBM:** Artificial Intelligence Fundamentals, Information Technology Fundamentals *(2025)*
-- **Cisco:** CCNA: Introduction to Networks, Introduction to Cybersecurity *(2025)*
-- **MongoDB:** Vector Search, RAG Apps, Document Model, CRUD Operations, Basics *(2025)*
-- **Wilco:** GitHub Copilot Integration, Code Smarter, Transform Your Code *(2025)*
+- **NASA Space Apps Challenge 2025** – Global Nominee & Jakarta Best Mission Concept
+- **IBM:** Artificial Intelligence Fundamentals *(2025)*
+- **IBM:** Information Technology Fundamentals *(2025)*
+- **Cisco:** CCNA: Introduction to Networks *(2025)*
+- **Cisco:** Introduction to Cybersecurity *(2025)*
+- **MongoDB:** Vector Search *(2025)*
+- **MongoDB:** RAG Apps *(2025)*
+- **MongoDB:** Document Model *(2025)*
+- **MongoDB:** CRUD Operations *(2025)*
+- **MongoDB:** Basics *(2025)*
+- **Wilco:** GitHub Copilot Integration *(2025)*
+- **Wilco:** Code Smarter *(2025)*
+- **Wilco:** Transform Your Code *(2025)*
 - **Dicoding Indonesia:** Belajar Dasar-Dasar DevOps *(2023)*
 
 ---
