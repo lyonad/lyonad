@@ -72,19 +72,21 @@ Here are some of the projects I'm most proud of:
 ### 🏅 Achievements & Certifications
 
 - **NASA Space Apps Challenge 2025** – Global Nominee & Jakarta Best Mission Concept
-- **IBM:** Artificial Intelligence Fundamentals *(2025)*
-- **IBM:** Information Technology Fundamentals *(2025)*
-- **Cisco:** CCNA: Introduction to Networks *(2025)*
-- **Cisco:** Introduction to Cybersecurity *(2025)*
-- **MongoDB:** Vector Search *(2025)*
-- **MongoDB:** RAG Apps *(2025)*
-- **MongoDB:** Document Model *(2025)*
-- **MongoDB:** CRUD Operations *(2025)*
-- **MongoDB:** Basics *(2025)*
-- **Wilco:** GitHub Copilot Integration *(2025)*
-- **Wilco:** Code Smarter *(2025)*
-- **Wilco:** Transform Your Code *(2025)*
-- **Dicoding Indonesia:** Belajar Dasar-Dasar DevOps *(2023)*
+- **IBM:** Artificial Intelligence Fundamentals *(Nov 2025)*
+- **IBM:** Information Technology Fundamentals *(Nov 2025)*
+- **Cisco:** CCNA: Introduction to Networks *(Feb 2025)*
+- **Cisco:** Introduction to Cybersecurity *(Nov 2025)*
+- **MongoDB:** Building AI-Powered Search with MongoDB Vector Search *(Nov 2025)*
+- **MongoDB:** Building RAG Apps Using MongoDB *(Nov 2025)*
+- **MongoDB:** From Relational Model (SQL) to MongoDB's Document Model *(Nov 2025)*
+- **MongoDB:** CRUD Operations in MongoDB *(Nov 2025)*
+- **MongoDB:** MongoDB Basics for Students *(Nov 2025)*
+- **Wilco:** Enhanced Development with GitHub Copilot Integration *(Nov 2025)*
+- **Wilco:** GitHub Copilot: Code Smarter *(Nov 2025)*
+- **Wilco:** GitHub Fundamentals *(Nov 2025)*
+- **Wilco:** Transform Your Code: GitHub Copilot Magic *(Nov 2025)*
+- **Dicoding Indonesia:** Belajar Dasar AI *(Oct 2025)*
+- **Dicoding Indonesia:** Belajar Dasar-Dasar DevOps *(Nov 2023)*
 
 ---
 
