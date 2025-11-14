@@ -16,7 +16,7 @@ Hello! I'm Lyon, a passionate Computer Science student with a strong inclination
 - 🌍 **Location:** West Jakarta, Indonesia
 - 🎓 **Education:** Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
 - 🧠 **Focus Areas:** Machine Learning, Time Series, Computer Vision, Applied AI for Healthcare
-- 🏆 **Highlights:** NASA Space Apps Global Nominee 2025
+- 🏆 **Highlights:** NASA International Space Apps Challenge Global Nominee 2025
 
 ---
 
@@ -25,7 +25,7 @@ Hello! I'm Lyon, a passionate Computer Science student with a strong inclination
 Here are some of the projects I'm most proud of:
 
 - **UKT Prediction** – Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting algorithms. *(Python, Flask, CatBoost)*
-- **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. *(🏆 NASA Space Apps 2025)*
+- **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. *(🏆 NASA International Space Apps Challenge 2025)*
 - **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction. *(Python, TensorFlow, Scikit-learn, Flask)*
 - **Phetrima** – Prophet and ARIMA Forecasting Models Comparison web app analyzing World Bank GDP data. *(Python, Flask, JavaScript, Chart.js)*
 - **Customer Review Analysis** – XGBoost, LightGBM, and CatBoost comparison with Grey Wolf Optimization for customer review classification. *(Jupyter Notebook)*
@@ -69,7 +69,7 @@ Here are some of the projects I'm most proud of:
 
 ### 🏅 Achievements & Certifications
 
-- **NASA Space Apps Challenge 2025** – Global Nominee & Jakarta Best Mission Concept
+- **NASA International Space Apps Challenge 2025** – Global Nominee & Jakarta Best Mission Concept
 - **IBM:** Artificial Intelligence Fundamentals, Information Technology Fundamentals *(2025)*
 - **Cisco:** CCNA: Introduction to Networks, Introduction to Cybersecurity *(2025)*
 - **MongoDB:** Vector Search, RAG Apps, Document Model, CRUD Operations, Basics *(2025)*
