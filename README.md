@@ -11,7 +11,7 @@
 ---
 
 ### 🌟 About Me
-Hello! I'm Lyon, a passionate Computer Science student with a strong inclination towards Machine Learning, Data Science, and AI applications. I thrive on solving complex problems and creating impactful solutions, especially in the fields of healthcare and space exploration. 
+Hello! I'm Lyon, a passionate Informatics Engineering student with a strong inclination towards Machine Learning, Data Science, and AI applications. I thrive on solving complex problems and creating impactful solutions, especially in the fields of healthcare and space exploration. 
 
 - 🌍 **Location:** West Jakarta, Indonesia
 - 🎓 **Education:** Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
