@@ -24,11 +24,11 @@ Hello! I'm Lyon, a passionate Computer Science student with a strong inclination
 
 Here are some of the projects I'm most proud of:
 
-- **UKT Prediction** – Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting algorithms. *(Python, Flask, CatBoost)*
-- **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. *(🏆 NASA International Space Apps Challenge 2025)*
-- **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction. *(Python, TensorFlow, Scikit-learn, Flask)*
-- **Phetrima** – Prophet and ARIMA Forecasting Models Comparison web app analyzing World Bank GDP data. *(Python, Flask, JavaScript, Chart.js)*
-- **I-SECRET** – Official Website Development with UI/UX design for intuitive user experience. *(Figma, Web Development)*
+- **UKT Prediction** – Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting algorithms. 
+- **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. 
+- **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction. 
+- **Phetrima** – Prophet and ARIMA Forecasting Models Comparison web app analyzing World Bank GDP data.
+- **I-SECRET** – Official Website Development with UI/UX design for intuitive user experience. 
 
 ---
 
