@@ -71,7 +71,7 @@ Here are some of the projects I'm most proud of:
 
 ### 🏅 Achievements & Certifications
 
-- **NASA Space Apps Challenge 2025** – Global Nominee & Jakarta Best Mission Concept
+- **NASA International Space Apps Challenge 2025** – Global Nominee & Jakarta's Best Mission Concept
 - **IBM:** Artificial Intelligence Fundamentals *(Nov 2025)*
 - **IBM:** Information Technology Fundamentals *(Nov 2025)*
 - **Cisco:** CCNA: Introduction to Networks *(Feb 2025)*
