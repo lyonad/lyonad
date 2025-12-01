@@ -1,241 +1,158 @@
-<div align="center">
-  <img src="./anime-frieren.gif" alt="Frieren Anime" width="480" />
-</div>
+<p align="center">
+	<img src="./anime-frieren.gif" alt="Frieren Anime" width="480" />
+</p>
 
-<h1 align="center">👋 Hey there! I'm Lyon Ambrosio Djuanda</h1>
+<h1 align="center">Lyon Ambrosio Djuanda</h1>
 
-<h3 align="center">
-  🎓 Computer Science Student · 🤖 Deep Learning Enthusiast · 🚀 NASA Space Apps Global Nominee
-</h3>
+<p align="center">
+	<b>Computer Science Student </b> · <b>Deep Learning Enthusiast</b> · <b>NASA International Space Apps Challenge 2025 Global Nominee</b>
+</p>
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lyon.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyon-ambrosio-djuanda/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lyon_a.d)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lyon_a.d)
-  
-</div>
+<p align="center">
+	<img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge" alt="Computer Science Student" />
+	<img src="https://img.shields.io/badge/Deep%20Learning-Enthusiast-orange?style=for-the-badge" alt="Deep Learning Enthusiast" />
+	<img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025%20Global%20Nominee-red?style=for-the-badge" alt="NASA Space Apps Challenge" />
+</p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyonad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonad&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyonad&theme=tokyonight&hide_border=false)
-  
-</div>
-
-<div align="center">
-  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lyonad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=lyonad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="GitHub Stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌟 About Me
+### 🌟 About Me
+Hello! I'm Lyon, a passionate Informatics Engineering student with a strong inclination towards Machine Learning, Data Science, and AI applications. I thrive on solving complex problems and creating impactful solutions, especially in the fields of healthcare and space exploration. 
 
-<div align="center">
-  
-  > *"The most important thing I've learned is no matter how unlucky you are, opportunity always comes again. Opportunity will come to those who don't give up, those who are willing to try again."*
-  
-</div>
-
-Hello! I'm **Lyon**, a passionate Informatics Engineering student with a strong inclination towards **Machine Learning**, **Data Science**, and **AI applications**. I thrive on solving complex problems and creating impactful solutions, especially in the fields of **healthcare** and **space exploration**. 
-
-<div align="center">
-  
-  🌍 **West Jakarta, Indonesia** · 🎓 **Informatics Engineering @ UNNES** · 🧠 **ML & AI Enthusiast**
-  
-</div>
+<p>
+	<img src="https://img.shields.io/badge/Location-West%20Jakarta%2C%20Indonesia-blue?style=flat-square" alt="Location" />
+	<img src="https://img.shields.io/badge/Education-Informatics%20Engineering-blue?style=flat-square" alt="Education" />
+	<img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%7C%20Time%20Series%20%7C%20Computer%20Vision-orange?style=flat-square" alt="Focus Areas" />
+	<img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025%20Global%20Nominee-red?style=flat-square" alt="NASA Achievement" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-<div align="center">
-  
-  | Project | Description | Tech Stack |
-  |---------|-------------|------------|
-  | **[UKT Prediction](https://github.com/lyonad)** | Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting | `Python` `ML` `Scikit-learn` |
-  | **[Exoplantropy](https://github.com/lyonad)** | Exoplanets AI Identifier web platform utilizing NASA data and ML methods | `Python` `Flask` `NASA API` `ML` |
-  | **[LungAI](https://github.com/lyonad)** | Deep Learning vs. Random Forest for Lung Cancer Risk Prediction | `Python` `TensorFlow` `Deep Learning` |
-  | **[Phetrima](https://github.com/lyonad)** | Prophet and ARIMA Forecasting Models Comparison web app | `Python` `Time Series` `Next.js` |
-  | **[I-SECRET](https://github.com/lyonad)** | Official Website Development with UI/UX design | `Next.js` `React` `Figma` |
-  
-</div>
+Here are some of the projects I'm most proud of:
+
+- **UKT Prediction** – Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting algorithms. 
+- **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. 
+- **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction. 
+- **Phetrima** – Prophet and ARIMA Forecasting Models Comparison web app analyzing World Bank GDP data.
+- **I-SECRET** – Official Website Development with UI/UX design for intuitive user experience. 
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
-### 💻 Programming Languages
+#### Programming Languages:
+<p>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+	<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+	<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
 
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  
-</div>
+#### Technologies & Frameworks:
+<p>
+	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+	<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+	<img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white" alt="RESTful API" />
+	<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-### 🎨 Frameworks & Libraries
-
-<div align="center">
-  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  
-</div>
-
-### 🗄️ Databases & Tools
-
-<div align="center">
-  
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  
-</div>
+#### Tools & Software:
+<p>
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+	<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+	<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+	<img src="https://img.shields.io/badge/IBM%20SPSS-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SPSS" />
+	<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+	<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="MS Word" />
+	<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="MS Excel" />
+</p>
 
 ---
 
-## 🏅 Achievements & Highlights
+### 🏅 Achievements & Certifications
 
-<div align="center">
-  
-  ### 🚀 **NASA International Space Apps Challenge 2025**
-  **Global Nominee** & **Jakarta's Best Mission Concept**
-  
-  [![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/)
-  
-</div>
-
-### 📜 Certifications
-
-<div align="center">
-  
-  ![IBM](https://img.shields.io/badge/IBM-AI%20Fundamentals-006699?style=flat-square&logo=ibm&logoColor=white)
-  ![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-Vector%20Search-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-Copilot-181717?style=flat-square&logo=github&logoColor=white)
-  ![Dicoding](https://img.shields.io/badge/Dicoding-AI%20Basics-2200CC?style=flat-square)
-  
-</div>
-
-**Recent Certifications:**
-- **IBM:** Artificial Intelligence Fundamentals, Information Technology Fundamentals
-- **Cisco:** CCNA: Introduction to Networks, Introduction to Cybersecurity
-- **MongoDB:** Building AI-Powered Search, RAG Apps, CRUD Operations, MongoDB Basics
-- **Wilco:** GitHub Copilot Integration, Code Smarter, GitHub Fundamentals
-- **Dicoding Indonesia:** Belajar Dasar AI, Belajar Dasar-Dasar DevOps
+<p>
+	<img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025%20Global%20Nominee-red?style=for-the-badge&logo=nasa&logoColor=white" alt="NASA Space Apps Challenge" />
+	<img src="https://img.shields.io/badge/IBM-AI%20Fundamentals-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI Fundamentals" />
+	<img src="https://img.shields.io/badge/IBM-IT%20Fundamentals-blue?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM IT Fundamentals" />
+	<img src="https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA" />
+	<img src="https://img.shields.io/badge/Cisco-Cybersecurity-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity" />
+	<img src="https://img.shields.io/badge/MongoDB-Vector%20Search-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Vector Search" />
+	<img src="https://img.shields.io/badge/MongoDB-RAG%20Apps-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB RAG Apps" />
+	<img src="https://img.shields.io/badge/MongoDB-Document%20Model-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Document Model" />
+	<img src="https://img.shields.io/badge/MongoDB-CRUD%20Operations-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB CRUD" />
+	<img src="https://img.shields.io/badge/MongoDB-Basics-green?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Basics" />
+	<img src="https://img.shields.io/badge/GitHub-Copilot%20Integration-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot Integration" />
+	<img src="https://img.shields.io/badge/GitHub-Copilot%20Code%20Smarter-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+	<img src="https://img.shields.io/badge/GitHub-Fundamentals-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Fundamentals" />
+	<img src="https://img.shields.io/badge/Dicoding-AI%20Basics-yellow?style=for-the-badge&logo=google&logoColor=white" alt="Dicoding AI" />
+	<img src="https://img.shields.io/badge/Dicoding-DevOps-yellow?style=for-the-badge&logo=google&logoColor=white" alt="Dicoding DevOps" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+### 📚 Education
 
-<div align="center">
-  
-  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-blue?style=for-the-badge)
-  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white)
-  
-</div>
+- **Universitas Negeri Semarang, Semarang** – Bachelor of Informatics Engineering *(Aug 2023 – Jul 2027 Expected)*
+
+- **SMA Santo Kristoforus II, Jakarta** – Mathematics and Science *(Jul 2020 – Jun 2023)*
 
 ---
 
-## 👥 Organizations & Leadership
+### 👥 Organization
 
-<div align="center">
-  
-  | Organization | Role | Period |
-  |--------------|------|--------|
-  | **I-SECRET ILKOM UNNES** | Media Staff | Feb 2024 – Jan 2025 |
-  | **SMA Santo Kristoforus II** | Academic Staff (Student Council) | Jan 2021 – Dec 2021 |
-  
-</div>
+- **I-SECRET ILKOM UNNES** – Media Staff *(Feb 2024 – Jan 2025)*  
+  - Managed visual content and promotional activities for the organization's main events, contributing to increased community engagement.  
+  - Contributed to the Events Division team, assisting in the design and smooth execution of the main I-SECRET ILKOM UNNES workshops and events.
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lyonad&theme=tokyo-night&hide_border=true)
-  
-</div>
+- **SMA Santo Kristoforus II Student Council** – Academic Staff *(Jan 2021 – Dec 2021)*  
+  - Led the World Food Day and Language Month School Event's lifecycle, ensuring seamless planning and execution through effective cross-team communication.  
+  - Planned, coordinated, and implemented educational programs aimed at boosting student academic achievement.
 
 ---
 
-## 🎯 Focus Areas
+### 📫 Let's Connect
 
-<div align="center">
-  
-  - 🤖 **Machine Learning** & **Deep Learning**
-  - 📊 **Time Series Analysis** & **Forecasting**
-  - 👁️ **Computer Vision** & **Image Processing**
-  - 🏥 **Applied AI for Healthcare**
-  - 🚀 **Space Technology** & **Data Science**
-  
-</div>
-
----
-
-## 💡 Fun Facts
-
-<div align="center">
-  
-  - 🎬 Anime enthusiast (as you can see from the GIF above!)
-  - 🌌 Passionate about space exploration and exoplanets
-  - 🏥 Interested in applying AI to solve healthcare challenges
-  - 📚 Always learning something new in the ML/AI space
-  
-</div>
+<p>
+	<a href="https://lyon.vercel.app/">
+		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+	</a>
+	<a href="https://www.linkedin.com/in/lyon-ambrosio-djuanda/">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>
+	<a href="https://www.instagram.com/lyon_a.d">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+	</a>
+	<a href="https://www.youtube.com/@lyon_a.d">
+		<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+	</a>
+</p>
 
 ---
 
-<div align="center">
-  
-  ### 📫 Let's Connect!
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lyon.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyon-ambrosio-djuanda/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lyon_a.d)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lyon_a.d)
-  
-</div>
+<p align="center">
+	"The most important thing I've learned is no matter how unlucky you are, opportunity always comes again. Opportunity will come to those who don't give up, those who are willing to try again. I believe there is no such a thing as a coincidence, even if it is indeed a coincidence, time will prove how that coincidence is a real coincidence or not."
+</p>
 
----
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=lyonad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  
-</div>
-
-<div align="center">
-  
-  *"מישהו שעדיין מנסה"* — Someone who is still trying
-  
-</div>
+<p align="center">
+	מישהו שעדיין מנסה –
+</p>
