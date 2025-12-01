@@ -14,11 +14,6 @@
 	<img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge%202025%20Global%20Nominee-red?style=for-the-badge" alt="NASA Space Apps Challenge" />
 </p>
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=lyonad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B" alt="GitHub Stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🌟 About Me
