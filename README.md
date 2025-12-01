@@ -1,128 +1,241 @@
-<p align="center">
-	<img src="./anime-frieren.gif" alt="Frieren Anime" width="480" />
-</p>
+<div align="center">
+  <img src="./anime-frieren.gif" alt="Frieren Anime" width="480" />
+</div>
 
-<h1 align="center">Lyon Ambrosio Djuanda</h1>
+<h1 align="center">👋 Hey there! I'm Lyon Ambrosio Djuanda</h1>
 
-<p align="center">
-	<b>Computer Science Student </b> · <b>Deep Learning Enthusiast</b> · <b>NASA International Space Apps Challenge 2025 Global Nominee</b>
-</p>
+<h3 align="center">
+  🎓 Computer Science Student · 🤖 Deep Learning Enthusiast · 🚀 NASA Space Apps Global Nominee
+</h3>
 
----
-
-### 🌟 About Me
-Hello! I'm Lyon, a passionate Informatics Engineering student with a strong inclination towards Machine Learning, Data Science, and AI applications. I thrive on solving complex problems and creating impactful solutions, especially in the fields of healthcare and space exploration. 
-
-- 🌍 **Location:** West Jakarta, Indonesia
-- 🎓 **Education:** Informatics Engineering @ Universitas Negeri Semarang (Expected 2027)
-- 🧠 **Focus Areas:** Machine Learning, Time Series, Computer Vision, Applied AI for Healthcare
-- 🏆 **Highlights:** NASA International Space Apps Challenge Global Nominee 2025
-
----
-
-### 🚀 Featured Projects
-
-Here are some of the projects I'm most proud of:
-
-- **UKT Prediction** – Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting algorithms. 
-- **Exoplantropy** – Exoplanets AI Identifier web platform utilizing NASA data and ML methods. 
-- **LungAI** – Deep Learning vs. Random Forest for Lung Cancer Risk Prediction. 
-- **Phetrima** – Prophet and ARIMA Forecasting Models Comparison web app analyzing World Bank GDP data.
-- **I-SECRET** – Official Website Development with UI/UX design for intuitive user experience. 
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lyon.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyon-ambrosio-djuanda/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lyon_a.d)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lyon_a.d)
+  
+</div>
 
 ---
 
-### 🛠️ Technical Skills
+## 📊 GitHub Stats
 
-#### Programming Languages:
-- Python
-- Java
-- C++
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- SQL
-- PHP
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lyonad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyonad&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
 
-#### Technologies & Frameworks:
-- Node.js
-- Flask
-- Next.js
-- React
-- Laravel
-- Tensorflow
-- RESTful API
-- GraphQL
-- MySQL
-- Git
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyonad&theme=tokyonight&hide_border=false)
+  
+</div>
 
-#### Tools & Software:
-- Figma
-- Unity
-- Jupyter
-- Google Colab
-- IBM SPSS
-- MATLAB
-- MS Word
-- MS Excel
+<div align="center">
+  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=lyonad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+  
+</div>
 
 ---
 
-### 🏅 Achievements & Certifications
+## 🌟 About Me
 
-- **NASA International Space Apps Challenge 2025** – Global Nominee & Jakarta's Best Mission Concept
-- **IBM:** Artificial Intelligence Fundamentals *(Nov 2025)*
-- **IBM:** Information Technology Fundamentals *(Nov 2025)*
-- **Cisco:** CCNA: Introduction to Networks *(Feb 2025)*
-- **Cisco:** Introduction to Cybersecurity *(Nov 2025)*
-- **MongoDB:** Building AI-Powered Search with MongoDB Vector Search *(Nov 2025)*
-- **MongoDB:** Building RAG Apps Using MongoDB *(Nov 2025)*
-- **MongoDB:** From Relational Model (SQL) to MongoDB's Document Model *(Nov 2025)*
-- **MongoDB:** CRUD Operations in MongoDB *(Nov 2025)*
-- **MongoDB:** MongoDB Basics for Students *(Nov 2025)*
-- **Wilco:** Enhanced Development with GitHub Copilot Integration *(Nov 2025)*
-- **Wilco:** GitHub Copilot: Code Smarter *(Nov 2025)*
-- **Wilco:** GitHub Fundamentals *(Nov 2025)*
-- **Wilco:** Transform Your Code: GitHub Copilot Magic *(Nov 2025)*
-- **Dicoding Indonesia:** Belajar Dasar AI *(Oct 2025)*
-- **Dicoding Indonesia:** Belajar Dasar-Dasar DevOps *(Nov 2023)*
+<div align="center">
+  
+  > *"The most important thing I've learned is no matter how unlucky you are, opportunity always comes again. Opportunity will come to those who don't give up, those who are willing to try again."*
+  
+</div>
+
+Hello! I'm **Lyon**, a passionate Informatics Engineering student with a strong inclination towards **Machine Learning**, **Data Science**, and **AI applications**. I thrive on solving complex problems and creating impactful solutions, especially in the fields of **healthcare** and **space exploration**. 
+
+<div align="center">
+  
+  🌍 **West Jakarta, Indonesia** · 🎓 **Informatics Engineering @ UNNES** · 🧠 **ML & AI Enthusiast**
+  
+</div>
 
 ---
 
-### 📚 Education
+## 🚀 Featured Projects
 
-- **Universitas Negeri Semarang, Semarang** – Bachelor of Informatics Engineering *(Aug 2023 – Jul 2027 Expected)*
-
-- **SMA Santo Kristoforus II, Jakarta** – Mathematics and Science *(Jul 2020 – Jun 2023)*
-
----
-
-### 👥 Organization
-
-- **I-SECRET ILKOM UNNES** – Media Staff *(Feb 2024 – Jan 2025)*  
-  - Managed visual content and promotional activities for the organization's main events, contributing to increased community engagement.  
-  - Contributed to the Events Division team, assisting in the design and smooth execution of the main I-SECRET ILKOM UNNES workshops and events.
-
-- **SMA Santo Kristoforus II Student Council** – Academic Staff *(Jan 2021 – Dec 2021)*  
-  - Led the World Food Day and Language Month School Event's lifecycle, ensuring seamless planning and execution through effective cross-team communication.  
-  - Planned, coordinated, and implemented educational programs aimed at boosting student academic achievement.
+<div align="center">
+  
+  | Project | Description | Tech Stack |
+  |---------|-------------|------------|
+  | **[UKT Prediction](https://github.com/lyonad)** | Indonesian Public University Tuition Fee Predictor using Random Forest and Gradient Boosting | `Python` `ML` `Scikit-learn` |
+  | **[Exoplantropy](https://github.com/lyonad)** | Exoplanets AI Identifier web platform utilizing NASA data and ML methods | `Python` `Flask` `NASA API` `ML` |
+  | **[LungAI](https://github.com/lyonad)** | Deep Learning vs. Random Forest for Lung Cancer Risk Prediction | `Python` `TensorFlow` `Deep Learning` |
+  | **[Phetrima](https://github.com/lyonad)** | Prophet and ARIMA Forecasting Models Comparison web app | `Python` `Time Series` `Next.js` |
+  | **[I-SECRET](https://github.com/lyonad)** | Official Website Development with UI/UX design | `Next.js` `React` `Figma` |
+  
+</div>
 
 ---
 
-### 📫 Let's Connect
+## 🛠️ Tech Stack
 
-- **Portfolio:** [lyon.vercel.app](https://lyon.vercel.app/)
-- **LinkedIn:** [Lyon Ambrosio Djuanda](https://www.linkedin.com/in/lyon-ambrosio-djuanda/)
-- **Instagram:** [lyon_a.d](https://www.instagram.com/lyon_a.d)
-- **YouTube:** [lyon_a.d](https://www.youtube.com/@lyon_a.d)
+### 💻 Programming Languages
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  
+</div>
+
+### 🎨 Frameworks & Libraries
+
+<div align="center">
+  
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  
+</div>
+
+### 🗄️ Databases & Tools
+
+<div align="center">
+  
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+  
+</div>
 
 ---
 
-<p align="center">
-	"The most important thing I've learned is no matter how unlucky you are, opportunity always comes again. Opportunity will come to those who don't give up, those who are willing to try again. I believe there is no such a thing as a coincidence, even if it is indeed a coincidence, time will prove how that coincidence is a real coincidence or not."
-</p>
+## 🏅 Achievements & Highlights
 
-<p align="center">
-	מישהו שעדיין מנסה –
-</p>
+<div align="center">
+  
+  ### 🚀 **NASA International Space Apps Challenge 2025**
+  **Global Nominee** & **Jakarta's Best Mission Concept**
+  
+  [![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps-2025-blue?style=for-the-badge&logo=nasa&logoColor=white)](https://www.spaceappschallenge.org/)
+  
+</div>
+
+### 📜 Certifications
+
+<div align="center">
+  
+  ![IBM](https://img.shields.io/badge/IBM-AI%20Fundamentals-006699?style=flat-square&logo=ibm&logoColor=white)
+  ![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-Vector%20Search-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-Copilot-181717?style=flat-square&logo=github&logoColor=white)
+  ![Dicoding](https://img.shields.io/badge/Dicoding-AI%20Basics-2200CC?style=flat-square)
+  
+</div>
+
+**Recent Certifications:**
+- **IBM:** Artificial Intelligence Fundamentals, Information Technology Fundamentals
+- **Cisco:** CCNA: Introduction to Networks, Introduction to Cybersecurity
+- **MongoDB:** Building AI-Powered Search, RAG Apps, CRUD Operations, MongoDB Basics
+- **Wilco:** GitHub Copilot Integration, Code Smarter, GitHub Fundamentals
+- **Dicoding Indonesia:** Belajar Dasar AI, Belajar Dasar-Dasar DevOps
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+  
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Time Series](https://img.shields.io/badge/Time%20Series-Forecasting-blue?style=for-the-badge)
+  ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-green?style=for-the-badge&logo=opencv&logoColor=white)
+  
+</div>
+
+---
+
+## 👥 Organizations & Leadership
+
+<div align="center">
+  
+  | Organization | Role | Period |
+  |--------------|------|--------|
+  | **I-SECRET ILKOM UNNES** | Media Staff | Feb 2024 – Jan 2025 |
+  | **SMA Santo Kristoforus II** | Academic Staff (Student Council) | Jan 2021 – Dec 2021 |
+  
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lyonad&theme=tokyo-night&hide_border=true)
+  
+</div>
+
+---
+
+## 🎯 Focus Areas
+
+<div align="center">
+  
+  - 🤖 **Machine Learning** & **Deep Learning**
+  - 📊 **Time Series Analysis** & **Forecasting**
+  - 👁️ **Computer Vision** & **Image Processing**
+  - 🏥 **Applied AI for Healthcare**
+  - 🚀 **Space Technology** & **Data Science**
+  
+</div>
+
+---
+
+## 💡 Fun Facts
+
+<div align="center">
+  
+  - 🎬 Anime enthusiast (as you can see from the GIF above!)
+  - 🌌 Passionate about space exploration and exoplanets
+  - 🏥 Interested in applying AI to solve healthcare challenges
+  - 📚 Always learning something new in the ML/AI space
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📫 Let's Connect!
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lyon.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyon-ambrosio-djuanda/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lyon_a.d)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@lyon_a.d)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=lyonad&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  
+</div>
+
+<div align="center">
+  
+  *"מישהו שעדיין מנסה"* — Someone who is still trying
+  
+</div>
