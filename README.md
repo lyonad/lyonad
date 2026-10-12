@@ -7,69 +7,75 @@
 </p>
 
 <p align="center">
-	<a href="https://lyon.vercel.app">Portfolio</a> ·
-	<a href="https://www.linkedin.com/in/lyon-ambrosio-djuanda">LinkedIn</a> ·
+	<a href="https://lyon.vercel.app">Portfolio</a>
+	&nbsp;·&nbsp;
+	<a href="https://www.linkedin.com/in/lyon-ambrosio-djuanda">LinkedIn</a>
+	&nbsp;·&nbsp;
 	<a href="mailto:lyon.ambrosio.djuanda@gmail.com">Email</a>
 </p>
 
 ---
 
-### About
+## About
 
 Bachelor of Computer Science student and published researcher (GPA 3.89/4.00), focused on AI-driven predictive modeling and software quality assurance. NASA Space Apps Challenge 2025 Global Nominee, with experience bridging research and practical application in the healthcare sector. Currently building toward advanced studies in Informatics, with a foundation in Gradient Boosting techniques and E2E testing.
 
-### Experience
+## Experience
 
-**Quality Assurance Intern** — Imperial Healthtech, Semarang <sub>Jan – May 2026</sub>
+**Quality Assurance Intern** — Imperial Healthtech, Semarang  
+*Jan – May 2026*
+
 - Managed the full bug lifecycle in Jira, documenting 100+ critical issues across EMR, Surgery, and Pharmacy modules.
 - Executed E2E and regression testing on web and microapp platforms, using Postman for API testing across MedMinutes EMR v2 and Clinical Forms.
 - Gathered requirements and validated EMR workflows with hospital IT teams, doctors, nurses, and medical record/casemix staff through on-site visits and video calls.
 
-### Research
+## Research
 
-**Performance Evaluation of Gradient Boosting Techniques for Predicting Customer Purchase Decisions** <sub>JUTIF · Apr 2026</sub>
-<br />
-Second author, with Florentina Yuni Arini, Ph.D. — comparative analysis of boosting algorithms on tabular data. [DOI](https://doi.org/10.52436/1.jutif.2026.7.2.5461)
+**Performance Evaluation of Gradient Boosting Techniques for Predicting Customer Purchase Decisions**  
+*Second author, with Florentina Yuni Arini, Ph.D. · JUTIF · Apr 2026*
 
-**User Experience Analysis of the "Search for a Pickup" and "Search for a Destination" Features on Gocar in the Gojek Application** <sub>ILKOMINFO · Jan 2025</sub>
-<br />
-First author — usability evaluation using the System Usability Scale (SUS) and statistical analysis in SPSS. [DOI](https://doi.org/10.47324/ilkominfo.v8i1.287)
+Comparative analysis of boosting algorithms on tabular data. [DOI](https://doi.org/10.52436/1.jutif.2026.7.2.5461)
 
-### Projects
+**User Experience Analysis of the "Search for a Pickup" and "Search for a Destination" Features on Gocar in the Gojek Application**  
+*First author · ILKOMINFO · Jan 2025*
 
-**NASA Exoplanets Identifier** — AI Engineer <sub>Sep – Oct 2025</sub>
-<br />
+Usability evaluation using the System Usability Scale (SUS) and statistical analysis in SPSS. [DOI](https://doi.org/10.47324/ilkominfo.v8i1.287)
+
+## Projects
+
+**NASA Exoplanets Identifier** — AI Engineer  
+*Sep – Oct 2025*
+
 ML-powered web platform using NASA open data to classify true exoplanets from false positives and visualize their parameters. Awarded Jakarta's Best Mission Concept and selected as a Global Nominee at the NASA International Space Apps Challenge. [Post](https://www.instagram.com/p/DPyxYnMEsHZ/)
 
-**I-SECRET Official Website** — UI/UX Developer <sub>Apr – Aug 2024</sub>
-<br />
+**I-SECRET Official Website** — UI/UX Developer  
+*Apr – Aug 2024*
+
 Designed wireframes and interactive prototypes in Figma, and worked with the development team on a responsive implementation. [Website](https://isecret.himailkomunnes.com)
 
-### Achievements & Certifications
+## Achievements & Certifications
 
-- **Jakarta's Best Mission Concept & Global Nominee** — NASA International Space Apps Challenge <sub>Oct 2025</sub>
-- **Automation Testing** — TestMu AI <sub>Jan 2026</sub>
-- **Artificial Intelligence Fundamentals** — IBM <sub>Nov 2025</sub>
-- **CCNA: Introduction to Networks** — Cisco <sub>Feb 2025</sub>
+- **Jakarta's Best Mission Concept & Global Nominee** — NASA International Space Apps Challenge · *Oct 2025*
+- **Automation Testing** — TestMu AI · *Jan 2026*
+- **Artificial Intelligence Fundamentals** — IBM · *Nov 2025*
+- **CCNA: Introduction to Networks** — Cisco · *Feb 2025*
 
-### Skills
+## Skills
 
-**Languages:** Python, Java, TypeScript, SQL
-<br />
-**Frameworks & Technologies:** Next.js, Node.js, React, PyTorch, MySQL, Git
-<br />
-**Tools:** Postman, Jira, Slack, Figma, Unity, Google Colab
+**Languages** — Python, Java, TypeScript, SQL  
+**Frameworks & Technologies** — Next.js, Node.js, React, PyTorch, MySQL, Git  
+**Tools** — Postman, Jira, Slack, Figma, Unity, Google Colab
 
-### Education
+## Education
 
-**Universitas Negeri Semarang** — Bachelor of Computer Science <sub>Aug 2023 – Dec 2026 (Expected)</sub>
-<br />
-GPA 3.89/4.00
+**Universitas Negeri Semarang** — Bachelor of Computer Science  
+*Aug 2023 – Dec 2026 (Expected)* · GPA 3.89/4.00
 
-### Organization
+## Organization
 
-**I-SECRET ILKOM UNNES** — Media Staff <sub>Feb 2024 – Jan 2025</sub>
-<br />
+**I-SECRET ILKOM UNNES** — Media Staff  
+*Feb 2024 – Jan 2025*
+
 Managed social media content and coordinated the Grand Launching & Workshop PKM 2024 as an event committee member.
 
 ---
