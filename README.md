@@ -77,11 +77,3 @@ Designed wireframes and interactive prototypes in Figma, and worked with the dev
 *Feb 2024 – Jan 2025*
 
 Managed social media content and coordinated the Grand Launching & Workshop PKM 2024 as an event committee member.
-
----
-
-<p align="center">
-	<sub><i>"Opportunity will come to those who don't give up, those who are willing to try again."</i></sub>
-	<br />
-	<sub>מישהו שעדיין מנסה –</sub>
-</p>
